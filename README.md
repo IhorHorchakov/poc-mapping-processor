@@ -1,0 +1,1 @@
+POC project to prove the ability of using marc4j library in mapping marc files to various marc records
